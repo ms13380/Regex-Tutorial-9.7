@@ -6,12 +6,12 @@ Regex is a group of characters which form a pattern.And utilized inside of algor
 
 \
 
-#Anchors
+# Anchors
 
-#Classes
+# Classes
 
-#Flags
+# Flags
 
-#Boundaries
+# Boundaries
 
-#Validation
+# Validation
