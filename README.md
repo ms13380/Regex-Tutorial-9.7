@@ -7,11 +7,14 @@ Regex is a group of characters which form a pattern.And utilized inside of algor
 \
 
 # Anchors
+Anchors define boundaries, and help to match strings. 
+
 
 # Classes
+Classes are identified by brackets, which is useful for  matching to other classes. 
 
 # Flags
+There are i and g flags, used for globbal searches and upper and lower case letters.
 
 # Boundaries
-
-# Validation
+Used to isolate strings
